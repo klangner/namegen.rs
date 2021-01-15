@@ -1,0 +1,14 @@
+[package]
+name = "namegen"
+version = "0.1.0"
+authors = ["Krzysztof Langner <klangner@gmail.com>"]
+description = "Name generator for fantasy games"
+keywords = ["game", "fantasy-names", "name-generator"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/klangner/namegen.rs"
+homepage = "https://github.com/klangner/namegen.rs"
+documentation = "https://docs.rs/namegen"
+edition = "2018"
+
+[dependencies]
+rand = "0.8"
