@@ -11,4 +11,4 @@ documentation = "https://docs.rs/namegen"
 edition = "2018"
 
 [dependencies]
-rand = "0.8"
+rand_xoshiro = "0.6.0"
